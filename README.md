@@ -9,7 +9,7 @@ Ultimately, I achieved the highest accuracy score by running the Logistic Regres
 **The dataset originates from the National Institute of Diabetes and Digestive and Kidney Diseases, aiming to predict, based on diagnostic measurements, whether a patient has diabetes.**
 
 
-##PCA
+#PCA
 
 I examined a genetic dataset containing about 100 genes, each with approximately 10 unique traits. Using Principal Component Analysis (PCA), I identified the main traits that significantly influenced how these genes were grouped together. I then created a program to find the top 10 traits that had the biggest impact on the initial gene groupings, specifically focusing on PC1.
 
